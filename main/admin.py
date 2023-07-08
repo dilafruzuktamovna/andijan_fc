@@ -5,6 +5,7 @@ from .models import *
 admin.site.register(Header)
 admin.site.register(Video)
 admin.site.register(Players)
+admin.site.register(Position)
 admin.site.register(Shop)
 admin.site.register(Information)
 admin.site.register(Partners)
